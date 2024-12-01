@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1733067874,
+	"version": 1733070810,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -98,10 +98,9 @@
 		"images/sprite69-sheet0.png",
 		"images/sprite70-sheet0.png",
 		"images/sprite71-sheet0.png",
-		"images/sprite79-sheet0.png",
-		"images/sprite80-sheet0.png",
+		"images/smk-sheet0.png",
+		"images/class-sheet0.png",
 		"images/sprite81-sheet0.png",
-		"images/sprite82-sheet0.png",
 		"images/loaderbar-sheet0.png",
 		"media/pengaturan.ogg",
 		"media/salju.ogg",
